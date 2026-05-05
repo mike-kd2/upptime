@@ -19,7 +19,6 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"ok"'
 
 status-website:
-  cname: status.ndsg-check.ch
   baseUrl: /upptime
   name: nDSG-Check Status
   theme: dark
@@ -27,6 +26,9 @@ status-website:
 notifications:
   - type: email
     to: michael@klauserdesigns.ch
+  - type: telegram
+    botToken: $TELEGRAM_BOT_TOKEN
+    chatId: $TELEGRAM_CHAT_ID
 
 workflowSchedule:
   uptime: "*/5 * * * *"
