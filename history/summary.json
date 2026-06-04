@@ -40,17 +40,17 @@
     "url": "https://scan.ndsg-check.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/scan.ndsg-check.ch.ico",
     "slug": "scan-worker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 610,
-    "timeDay": 383,
-    "timeWeek": 878,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 595,
+    "timeDay": 214,
+    "timeWeek": 794,
+    "timeMonth": 595,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2026-05-30": 89
     }
