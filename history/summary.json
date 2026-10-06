@@ -40,21 +40,21 @@
     "url": "https://scan.ndsg-check.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/scan.ndsg-check.ch.ico",
     "slug": "scan-worker",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "84.68%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.78%",
-    "time": 608,
-    "timeDay": 73,
-    "timeWeek": 463,
-    "timeMonth": 569,
-    "timeYear": 608,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "74.67%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.72%",
+    "time": 609,
+    "timeDay": 279,
+    "timeWeek": 488,
+    "timeMonth": 573,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2026-05-30": 89,
       "2026-06-04": 173,
-      "2026-10-06": 221
+      "2026-10-06": 365
     }
   }
 ]
