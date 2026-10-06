@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 269,
-    "timeWeek": 294,
-    "timeMonth": 241,
+    "timeDay": 204,
+    "timeWeek": 283,
+    "timeMonth": 242,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 245,
-    "timeWeek": 307,
-    "timeMonth": 228,
+    "timeDay": 309,
+    "timeWeek": 330,
+    "timeMonth": 234,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -41,20 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/scan.ndsg-check.ch.ico",
     "slug": "scan-worker",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 611,
-    "timeDay": 379,
-    "timeWeek": 523,
-    "timeMonth": 580,
-    "timeYear": 611,
+    "uptime": "99.78%",
+    "uptimeDay": "84.68%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.78%",
+    "time": 608,
+    "timeDay": 73,
+    "timeWeek": 463,
+    "timeMonth": 569,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2026-05-30": 89,
       "2026-06-04": 173,
-      "2026-10-06": 0
+      "2026-10-06": 221
     }
   }
 ]
